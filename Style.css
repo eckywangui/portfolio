@@ -149,6 +149,7 @@ html{
     background-color: #c88038;
     color: whitesmoke;
     padding: 20px;
+    color: black;
 }
 .form{
     display: flex;
